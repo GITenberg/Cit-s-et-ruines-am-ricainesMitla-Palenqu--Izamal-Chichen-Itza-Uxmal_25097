@@ -1,0 +1,55 @@
+_repo: Cit-s-et-ruines-am-ricainesMitla-Palenqu--Izamal-Chichen-Itza-Uxmal_25097
+_version: 0.1.0
+contributor:
+  photographer:
+    agent_name: Charnay, Désiré
+    aliases:
+    - Charnay, Claude-Joseph-Désiré
+    - Charnay, Desire
+    birthdate: 1828
+    deathdate: 1915
+    gutenberg_agent_id: '5013'
+    url: http://www.gutenberg.org/2009/agents/5013
+    wikipedia: http://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Charnay
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Viollet-le-Duc, Eugène-Emmanuel
+    aliases:
+    - Viollet-le-Duc, E. (Eugène)
+    - Viollet-le-Duc, Eugene-Emmanuel
+    birthdate: 1814
+    deathdate: 1879
+    gutenberg_agent_id: '8223'
+    url: http://www.gutenberg.org/2009/agents/8223
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
+    - http://en.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
+description: photographiées par Désiré Charnay
+gutenberg_bookshelf:
+- FR Voyages et pays
+- FR Sciences et Techniques
+gutenberg_issued: '2008-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25097'
+  lccn: 02004883
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mayas -- Antiquities'
+- !lcsh 'Extinct cities -- Mexico'
+- !lcsh 'Mitla Site (Mexico) -- Photographs'
+- !lcsh 'Palenque Site (Mexico) -- Photographs'
+- !lcsh 'Uxmal Site (Mexico) -- Photographs'
+- !lcsh 'Mexico -- Description and travel'
+- !lcsh 'Mexico -- Antiquities'
+- !lcsh 'Chichén Itzá Site (Mexico) -- Photographs'
+- !lcsh 'Izamal Site (Mexico) -- Photographs'
+- !lcc 'F1201'
+title: 'Cités et ruines américaines: Mitla, Palenqué, Izamal, Chichen-Itza, Uxmal'
+url: http://www.gutenberg.org/ebooks/25097

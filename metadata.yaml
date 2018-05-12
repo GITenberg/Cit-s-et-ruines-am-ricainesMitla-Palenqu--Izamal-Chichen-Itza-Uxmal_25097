@@ -28,6 +28,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
     - http://en.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
 description: photographiées par Désiré Charnay
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25097#Cit-s-et-ruines-am-ricainesMitla-Palenqu--Izamal-Chichen-Itza-Uxmal
 gutenberg_bookshelf:
 - FR Voyages et pays
 - FR Sciences et Techniques
